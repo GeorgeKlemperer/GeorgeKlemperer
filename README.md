@@ -5,6 +5,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
 
+<br>
+<p>To find out a bit more about me and to check out some of my software projects <a href="https://georgeklemperer.github.io/" target="blank">visit my GitHub Pages website!</a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rgeorgeklemperer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rgeorgeklemperer" height="30" width="40" /></a>
