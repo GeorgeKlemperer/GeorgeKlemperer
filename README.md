@@ -7,6 +7,7 @@
 
 <br>
 <p>To find out a bit more about me and to check out some of my software projects <a href="https://georgeklemperer.github.io/" target="blank">visit my GitHub Pages website!</a> You can also read about what I've learnt at the Founders and Coders software bootcamp here: <a href="https://github.com/GeorgeKlemperer/george-portfolio" target="blank">My FAC portfolio</a>.</p>
+<br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeklemperer&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
